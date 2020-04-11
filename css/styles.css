@@ -212,8 +212,7 @@ header nav a:hover {
 
 .peliculas-recomendadas .contenedor-carrusel .carrusel .pelicula.hover {
     transform: scale(1.2);
-    transform-origin: top;
-    overflow: visible;
+    transform-origin: center;
 }
 
 
